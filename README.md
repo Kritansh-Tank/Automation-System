@@ -2,6 +2,10 @@
 
 This project automates the generation of library cards for new admission students at the college. The system fetches student details from a CSV file and applies them to a predefined template. Built using React, Tailwind CSS, and TypeScript, this web application streamlines the process of creating and issuing library cards, enhancing efficiency and reducing manual effort.
 
-## Screenshot
+## User Interface
 
-![Library Card Automation](https://drive.google.com/uc?id=1hU-9KYzZ_4ZXlAEjGO1x-067ju5XIHpz)
+![Library Card Automation](assets/Library_Card_Automation_System.png)
+
+## License
+
+MIT License - See LICENSE file for details
