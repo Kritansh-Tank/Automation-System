@@ -253,13 +253,6 @@ const Home = () => {
           >
             Kritansh Tank
           </a>
-          &nbsp;&&nbsp;
-          <a
-            href="https://www.linkedin.com/in/ashwinpandeyak/"
-            style={{ color: "white", textDecoration: "none" }}
-          >
-            Ashwin Pandey
-          </a>
         </span>
         <span
           style={{
